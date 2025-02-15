@@ -33,7 +33,6 @@ amazon-clone/
 ```
 
 Screenshots
-https://github.com/PraghyaChaturvedi/amazon_clone/blob/043a6066540cc72051e56fc0c3dd674595be7ece/Screenshot%202025-02-16%20012910.png
 
 
 
