@@ -30,9 +30,8 @@ amazon-clone/
 │── styles.css       # CSS file for styling
 │── images/          # Folder containing images
 └── README.md        # Project documentation
-```
 
 Screenshots
-
+![Image](https://github.com/user-attachments/assets/93a8e7c4-7df3-43f6-9905-daca67af2edd) 
 
 
