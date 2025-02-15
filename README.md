@@ -24,14 +24,17 @@ Features
 3. Open `index.html` in your browser.
 
 
-Project Structure
+## Project Structure
 amazon-clone/
 │── index.html       # Main HTML file
 │── styles.css       # CSS file for styling
 │── images/          # Folder containing images
 └── README.md        # Project documentation
 
-Screenshots
+## Screenshots
 ![Image](https://github.com/user-attachments/assets/93a8e7c4-7df3-43f6-9905-daca67af2edd) 
 
+![Screenshot 2025-02-16 012928](https://github.com/user-attachments/assets/a0efbe08-426f-4997-86b8-3fba5d3abcaa)
 
+
+![Screenshot 2025-02-16 012942](https://github.com/user-attachments/assets/fcfcc7b4-84d7-4d74-b6d7-585146d4034f)
